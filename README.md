@@ -1,0 +1,1 @@
+To develop a simple yet interactive Tic-Tac-Toe game that can be played between two players. This project will help you understand basic game logic, user interaction, and the application of programming concepts like loops, conditionals, and arrays.
